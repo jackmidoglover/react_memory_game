@@ -1,0 +1,38 @@
+[
+    {
+       "id": 1,
+       "name": "Moonlight Wolf",
+       "image": "/assets/images/Moonlight_Wolf.jpg", 
+       "clicked": false
+    },
+    {
+        "id": 2, 
+        "name": "A Mexican Vaquero",
+        "image": "/assets/images/a-mexican-vaquero.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3, 
+        "name": "A Cold Morning on the Range",
+        "image": "/assets/images/a-cold-morning-on-the-range.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4, 
+        "name": "Arizona Cowboy",
+        "image": "/assets/images/Arizona_cowboy.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5, 
+        "name": "His First Lesson",
+        "image": "/assets/images/his-first-lesson.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6, 
+        "name": "The Cowboy",
+        "image": "/assets/images/The-Cowboy.jpg",
+        "clicked": false
+    }
+]
