@@ -1,0 +1,11 @@
+.header{
+    height: 80px;
+    background: radial-gradient(to right, #7F3100, #BD4800, #b1876d);
+    color: #eeeeee;
+    font-family: 'Alfa Slab One';
+
+}
+.wrapper{ 
+    background-color: #eeeeee;
+    padding: 30px 5px 30px 5px;
+}

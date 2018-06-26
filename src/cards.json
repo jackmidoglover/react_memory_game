@@ -34,5 +34,41 @@
         "name": "The Cowboy",
         "image": "/assets/images/The-Cowboy.jpg",
         "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "The Fall of the Cowboy",
+        "image": "/assets/images/the-fall-of-the-cowboy.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "His Last Stand",
+        "image": "/assets/images/his-last-stand.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Dismounted the Fourth Troopers Moving the Led Horses",
+        "image": "/assets/images/dismounted-the-fourth-troopers.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Aiding a Comrade", 
+        "image": "/assets/images/Aiding-a-comrade.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "A Dash For the Timber", 
+        "image": "/assets/images/A-Dash-For-The-Timber.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Against the Sunset",
+        "image": "/assets/images/Against-the-Sunset.jpg",
+        "clicked": false
     }
 ]
